@@ -1,3 +1,4 @@
 Name: Ayushman Subhadarshan
 Favorite Programming Language: Python
 What I learned: I learned how to create and push a Git repository.
+Useful Git Command: git status
